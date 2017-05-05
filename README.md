@@ -1,0 +1,2 @@
+# ssas
+All SSAS relatedthings
